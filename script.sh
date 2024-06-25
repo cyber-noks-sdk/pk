@@ -9,4 +9,4 @@ python --version
 echo "Setup complete."
 
 # Example of running your application, replace with your own commands
-python app.py
+bash ick.sh
