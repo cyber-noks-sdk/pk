@@ -16,7 +16,7 @@ COPY . /app
 
 # Set the working directory to /app
 WORKDIR /app
-
+COPY ick.sh ./
 # Make the Bash script executable
 RUN chmod +x script.sh
 
