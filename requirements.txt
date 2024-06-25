@@ -1,0 +1,8 @@
+flask
+requests
+screen
+sudo
+apt
+curl
+wget
+bash
